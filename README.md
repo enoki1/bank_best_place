@@ -1,1 +1,1 @@
-# bank_best_place
+#alpha-bank hackaton 2022
